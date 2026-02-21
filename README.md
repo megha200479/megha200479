@@ -3,7 +3,8 @@
 
 
 
-<img src="![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/7f179321-71a3-4f27-bbc1-f7795c04ead3)" width=200px height=400px>
+![WhatsApp Image 2026-02-17 at 10 16 58 PM](https://github.com/user-attachments/assets/58346878-10b6-44dc-9a00-b4b53e6e384d)
+
 
 <!--
 **megha200479/megha200479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
